@@ -1,0 +1,6 @@
+openai-whisper
+cohere
+sounddevice
+scipy
+gtts
+playsound
