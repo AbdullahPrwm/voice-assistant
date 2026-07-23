@@ -16,7 +16,7 @@ warnings.filterwarnings("ignore", message="FP16 is not supported on CPU")
 # ============================================
 # 🔑 Put your Cohere API key here
 # ============================================
-COHERE_API_KEY = "cohere_6gW4TQIbMPFYv3ORSCfYGaB6xFnToQabC5a37hbT1TnhE8"  # Replace with your actual key
+COHERE_API_KEY = "YOUR_COHERE_API_KEY"  # Replace with your actual key
 
 # Initialize Cohere
 co = cohere.Client(COHERE_API_KEY)
